@@ -563,7 +563,7 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 							37073 Göttingen<br>
 							Germany<br>
 							015759405973
-							isabeautifulive@gmail.com
+							isabeautifulife@gmail.com
 						</p>
 					</div>
 					<div class="footer-col col-md-4">
