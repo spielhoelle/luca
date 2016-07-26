@@ -335,6 +335,10 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 					'title' => 'dawn',
 					'info' => 'ceramic and glass mosaic on wood'
 				),
+				37 => array(
+					'title' => 'the sun',
+					'info' => 'glass mosaic cathedral on plexiglass 100 - 100 cm'
+				),
 				38 => array(
 					'title' => 'Garden cobblestone mosaic',
 					'info' => 'Without the use of cement, made entirely with sand. This work can be accomplished in any size or terrain'
@@ -578,13 +582,7 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 						</p>
 					</div>
 					<div class="footer-col col-md-4">
-						<h3>Italien</h3>
-
-						<p>Via Matteotti, 21<br>
-							21030 Ferrera di Varese<br>
-							 Italy<br>
-							+39 - 346 3833461
-						</p>
+						
 					</div>
 
 				</div>
