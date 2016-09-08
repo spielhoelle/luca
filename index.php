@@ -354,6 +354,34 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 				42 => array(
 					'title' => 'hand painting floor',
 					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
+				),
+				43 => array(
+					'title' => 'spiral of life',
+					'info' => 'ceramic mosaic and gold leaf'
+				),
+				44 => array(
+					'title' => 'the power of the sun',
+					'info' => 'glass mosaic and gold leaf 50 - 70 cm'
+				),
+				45 => array(
+					'title' => 'natur',
+					'info' => 'acril-ceramic and water acril 90 - 50 cm'
+				),
+				46 => array(
+					'title' => 'star',
+					'info' => 'ceramic and water acril 40 - 110 cm'
+				),
+				47 => array(
+					'title' => '',
+					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
+				),
+				48 => array(
+					'title' => '',
+					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
+				),
+				49 => array(
+					'title' => '',
+					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
 				)
 			);
 
