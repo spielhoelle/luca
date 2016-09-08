@@ -341,7 +341,7 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 				),
 				38 => array(
 					'title' => 'Garden cobblestone mosaic',
-					'info' => 'Without the use of cement, made entirely with sand. This work can be accomplished in any size or terrain'
+					'info' => 'without the use of cement, made entirely with sand. This work can be accomplished in any size or terrain'
 				),
 				40 => array(
 					'title' => 'the pyramids and the time',
@@ -365,23 +365,31 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 				),
 				45 => array(
 					'title' => 'natur',
-					'info' => 'acril-ceramic and water acril 90 - 50 cm'
+					'info' => 'acril, ceramic and water 90 - 50 cm'
 				),
 				46 => array(
 					'title' => 'star',
-					'info' => 'ceramic and water acril 40 - 110 cm'
+					'info' => 'acril, ceramic and water 40 - 110 cm'
 				),
 				47 => array(
-					'title' => '',
+					'title' => 'hand painting floor',
 					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
 				),
 				48 => array(
-					'title' => '',
-					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
+					'title' => 'Garden cobblestone mosaic',
+					'info' => 'without the use of cement, made entirely with sand. This work can be accomplished in any size or terrain'
 				),
 				49 => array(
-					'title' => '',
-					'info' => 'acrylic water paint and transparent finish for protection | for indoor and outdoor | achievable on wood, concrete, metal and all kinds of materials'
+					'title' => 'acrylic on wall',
+					'info' => 'in all sizes - This technique can be performed on concrete wall with wallpaper'
+				),
+				50 => array(
+					'title' => 'acrylic on wall',
+					'info' => 'in all sizes - This technique can be performed on concrete wall with wallpaper'
+				),
+				51 => array(
+					'title' => 'acrylic on wall',
+					'info' => 'in all sizes - This technique can be performed on concrete wall with wallpaper'
 				)
 			);
 
