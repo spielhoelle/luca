@@ -346,6 +346,10 @@ footer {
   width: 100%;
   color: white;
   background: #333333; }
+  footer .pic-container {
+    width: 100%;
+    background: center center/contain no-repeat;
+    padding-bottom: 40%; }
   footer .footer-container {
     height: 100%;
     display: -webkit-flex;
@@ -398,7 +402,7 @@ footer {
     -webkit-animation-play-state: paused;
             animation-play-state: paused; }
   footer .footer-below {
-    padding: 25px 0;
+    padding: 15px 0;
     background-color: #262626; }
     footer .footer-below .col-lg-12 i {
       transition: color .3s ease; }
@@ -517,11 +521,11 @@ footer {
   overflow: hidden;
   text-overflow: ellipsis; }
 
-@media (min-width: 500px) {
+@media (min-width: 992px) {
   section#contact {
     margin-bottom: 375px; } }
 
-@media (min-width: 500px) {
+@media (min-width: 992px) {
   footer {
     height: 375px;
     z-index: -1;

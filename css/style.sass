@@ -368,7 +368,10 @@ footer
   width: 100%
   color: white
   background: $gray
-
+  .pic-container
+    width: 100%
+    background: center center/contain no-repeat
+    padding-bottom: 40%
   .footer-container
     height: 100%
     display: flex
@@ -396,7 +399,7 @@ footer
     padding: 0 5px
     animation-play-state: paused
   .footer-below
-    padding: 25px 0
+    padding: 15px 0
     background-color: darken($gray, 5%)
     .col-lg-12 i
       transition: color .3s ease
@@ -518,11 +521,11 @@ footer
   text-overflow: ellipsis
 
 section#contact
-  @media (min-width: 500px)
+  @media (min-width: 992px)
     margin-bottom: 375px
 
 footer
-  @media (min-width: 500px)
+  @media (min-width: 992px)
     height: 375px
     z-index: -1
     position: fixed

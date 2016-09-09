@@ -618,7 +618,8 @@ $icons         = array( 'fa-university', 'fa-lightbulb-o', 'fa-th', 'fa-picture-
 						</p>
 					</div>
 					<div class="footer-col col-md-4">
-						
+						<h3>Life is Beautiful</h3>
+						<div class="pic-container" style="background-image: url(img/logo.png)">
 					</div>
 
 				</div>
